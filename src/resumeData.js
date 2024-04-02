@@ -4,7 +4,7 @@ let resumeData = {
     "fatherName":"Kambesh H N",
     "motherName":"Dakshayanamma C",
     "dob": "26-12-1997",
-    "sibling":"Chethan M K (Works at cognizant)",
+    "sibling":"Chethan M K (Working at cognizant)",
     "linkedinId":"https://www.linkedin.com/in/nithin-mk26/",
     // "skypeid": "Your skypeid",
     "roleDescription": " Driven by curiosity and a passion for learning, I am always eager to explore new ideas, cultures, and experiences.",
@@ -42,12 +42,14 @@ let resumeData = {
     "rashi":"vrishchika ",
     "nakshatra":"Anuradha",
     "birthPlace":"Birur",
-    "timeofbirth":"7:20 PM",
+    "timeofbirth":"7:15 PM",
     "imageUrls": [
-      "/images/portfolio/farmerboy.JPG",
-      "/images/portfolio/coffee.jpg",
-      "/images/portfolio/console.jpg"
-    ]
+      "./images/pic1.png",
+      "./images/pic2.png",
+      "./images/pic3.png",
+      "./images/pic4.png"
+    ],
+    "caste":"Lingayath - Nolamba"
   }
   
   export default resumeData

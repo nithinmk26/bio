@@ -1,7 +1,7 @@
 {
   "name": "resume",
   "version": "0.1.0",
-  "homepage": "https://nithinmk26.github.io/react-gh-pages",
+  "homepage": "https://nithinmk26.github.io/bio",
   "private": true,
   "dependencies": {
     "react": "^16.6.0",
