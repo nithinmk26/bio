@@ -254,6 +254,10 @@ ul#nav li.current a { color: #F06000; }
    border-bottom: 3px solid #11ABB0;
    padding-bottom: 6px;
 }
+#resume h4 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
 #resume h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
 }
