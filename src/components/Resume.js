@@ -57,41 +57,8 @@ export default  class Resume extends Component {
                 })
               }
             </div> 
-         </div>
+         </div> 
 
-
-{/* 
-         <div className="row skill">
-
-            <div className="three columns header-col">
-               <h1><span>Father</span></h1>
-               <h1><span>Mother</span></h1>
-               <h1><span>Sibling</span></h1>
-               <h1><span>sister In Law</span></h1>
-               <h1><span>DOB</span></h1>
-               <h1><span>Caste</span></h1>
-               <h1><span>Rashi</span></h1>
-               <h1><span>Nakshatra</span></h1>
-               <h1><span>place of birth</span></h1>
-               <h1><span>Time of birth</span></h1>
-
-            </div>
-
-             <div className="nine columns main-col">
-               <h4>{resumeData.fatherName}</h4>
-               <h4>{resumeData.motherName}</h4>
-               <h4>{resumeData.sibling}</h4>
-               <h4>{resumeData.sisterInLaw}</h4>
-               <h4>{resumeData.dob}</h4>
-               <h4>Lingayath - Nolamba</h4>
-               <h4>{resumeData.rashi}</h4>
-               <h4>{resumeData.nakshatra}</h4>
-               <h4>{resumeData.birthPlace}</h4>
-               <h4>{resumeData.timeofbirth}</h4>
-
-   			</div>  
-
-         </div>*/}
          <div class="row skill">
   <div class="table-responsive">
     <table class="three columns header-col">

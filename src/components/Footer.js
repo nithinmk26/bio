@@ -1,4 +1,7 @@
 import React, { Component } from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faWhatsapp } from '@fortawesome/free-brands-svg-icons';
+
 export default class Footer extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -10,11 +13,14 @@ export default class Footer extends Component {
             {
               resumeData.socialLinks && resumeData.socialLinks.map((item)=>{
                 return(
-                  <li>
-                    <a href={item.url}>
-                    <i className={item.className} />
-                    </a>
-                  </li>
+                  <li key={item.name}>
+                  <a href={item.url} target="_blank">
+                  {item.name === 'whatsapp' ? ( // Check if it's WhatsApp
+    <FontAwesomeIcon icon={faWhatsapp} />
+  ) : (
+    <i className={item.className}></i>
+  )}</a>
+                </li>
                 )
               })
             }
