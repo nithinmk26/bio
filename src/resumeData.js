@@ -47,7 +47,7 @@ let resumeData = {
     "rashi":"vrishchika ",
     "nakshatra":"Anuradha",
     "birthPlace":"Birur",
-    "timeofbirth":"7:15 PM",
+    "timeofbirth":"8:17 PM",
     "imageUrls": [
       "./images/pic1.png",
       "./images/pic2.png",
