@@ -30,6 +30,7 @@ export default class ContactUs extends Component {
               <br/>
               <h4>Nithin : 9986024343, 9113683980</h4>
               <h4> Mother : 7892041457</h4>
+              <h4> Father : 9036092901</h4>
             </div>
           </aside>
         </div>
