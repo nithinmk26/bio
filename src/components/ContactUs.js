@@ -24,6 +24,10 @@ export default class ContactUs extends Component {
                   <br />
                 </p>
               </h4>
+              <h4><a href="https://maps.app.goo.gl/Dnh1UqDs2tUibrjz8"> View on google Maps </a></h4>
+              <br/>
+              <h4><a href="https://maps.apple.com/?auid=9214258847491162934&ll=13.591410,75.975902&lsp=7618&q=Dropped%20Pin&t=m"> View on apple Maps </a></h4>
+              <br/>
               <h4>Nithin : 9986024343, 9113683980</h4>
               <h4> Mother : 7892041457</h4>
             </div>
