@@ -7,7 +7,7 @@ let resumeData = {
     "sibling":"Chethan M K (Engineer - Cognizant)",
     "linkedinId":"https://www.linkedin.com/in/nithin-mk26/",
     // "skypeid": "Your skypeid",
-    "roleDescription": "In search of a life partner who's like a lifeline, supporting and growing with me, with mutual understanding, open communication, and honesty, akin to the bond between best friends, where we share everything openly without judgment. Thankfully, I've found a remarkable woman who embodies these qualities.",
+    "roleDescription": "In search of a life partner who's like a lifeline, supporting and growing with me, with mutual understanding, open communication, and honesty, akin to the bond between best friends, where we share everything openly without judgment.",
     "socialLinks":[
         {
           "name":"linkedin",
