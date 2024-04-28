@@ -6,7 +6,14 @@ import Portfolio from './components/Portfolio';
 import ContactUs from './components/ContactUs';
 import Footer from './components/Footer';
 import resumeData from './resumeData';
+import ReactGA from 'react-ga'; // Import ReactGA
+
 class App extends Component {
+  componentDidMount() {
+    ReactGA.initialize('G-2M9F5EQY24'); // Initialize ReactGA with your tracking ID
+    ReactGA.pageview(window.location.pathname + window.location.search); // Track initial pageview
+  }
+
   render() {
     return (
       <div className="App">
